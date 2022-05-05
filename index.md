@@ -50,3 +50,5 @@
 <p>MDC项目，实现车间非标及标准自动化设备关键数据采集,主要工作内容：</p>
 <p>1、MDC系统方案设计</p>
 <p>2、项目实施及管理</p>
+<h2>专业技能</h2> 
+<p><b>asp.Net;WinForm;Node.JS;Android;PLC;Axure;RPA;非标自动化</b></p>
