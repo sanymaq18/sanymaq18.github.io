@@ -8,7 +8,7 @@
 <p><b>电话    ：15301382381</b></p>  
 </td>
 <td width="25%">
-<img src="/马琪MaQi.jpg" width="100%">
+<img src="/MaQi.jpg" width="100%">
 </td>
 </tr>
 <tr>
