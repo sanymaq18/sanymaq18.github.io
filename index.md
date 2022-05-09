@@ -7,7 +7,7 @@
 <p><b>学历：全日制本科(硕士学位)</b></p>  
 <p><b>邮箱    ：sanymaq18@163.com</b></p> 
 <p><b>电话    ：15301382381</b></p>  
-<p><b>√数字化工厂设计 √IOT及产线自动化 √敏捷开发 √流程自动化</b></p>  
+<p><b>√工业软件产品化 √敏捷开发 √数字工厂信息系统架构 √流程自动化及RPA √IOT √产线自动化</b></p>  
 </td>
 <td width="25%">
 <img src="/MaQi.jpg" width="100%">
@@ -52,4 +52,7 @@
 <p>1、MDC系统方案设计</p>
 <p>2、项目实施及管理</p>
 <h2>专业技能</h2> 
-<p><b>asp.Net;WinForm;Node.JS;Android;PLC;Axure;RPA;非标自动化</b></p>
+<p><b>软件开发：asp.Net；WinForm；Node.JS；Xamarin Android；Axure；html/css;</b></p>
+<p><b>数据库：SQL Server ；MySQL；MongoDB；Redis；influxDB；</b></p>
+<p><b>接口协议：restful；socket；OPC UA/DA；DeviceNet；ProfiNet；</b></p>
+<p><b>软件应用：kepware；Wincc；UiPath；Grafana；FineReport；</b></p>
